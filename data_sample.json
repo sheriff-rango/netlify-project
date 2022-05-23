@@ -1,0 +1,53 @@
+{
+  "global_balances": [{
+    "token_address": "0x510d776fea6469531f8be69e669e553c0de69621",
+    "name": "polydogeMaticvault",
+    "symbol": "vpolydogeMatic",
+    "logo": null,
+    "thumbnail": null,
+    "decimals": "18",
+    "balance": "1740176445694165553864365",
+    "usdPrice": null
+  }],
+  "global_transfers": [{
+    "transaction_hash": "0x653a2c33353cdf53b0cc6ed15be260740c04236cac96242dcdc5b48dcca970c0",
+    "address": "0x5d9d66ac0db91ec463fb3e9e5b1513dbff02fd0f",
+    "block_timestamp": "2021-10-12T13:12:15.000Z",
+    "block_number": "20138207",
+    "block_hash": "0xeb94e4219a5d0082a3e0829f9ccb9880eeec1a40cb841a03dacbc4e0cb798f13",
+    "to_address": "0x510d776fea6469531f8be69e669e553c0de69621",
+    "from_address": "0x704111edbee29d79a92c4f21e70a5396aedcc44a",
+    "value": "2708776013531995304799252",
+    "used": true
+  }],
+  "global_tx": [{
+    "hash": "0x653a2c33353cdf53b0cc6ed15be260740c04236cac96242dcdc5b48dcca970c0",
+    "nonce": "4144",
+    "transaction_index": "12",
+    "from_address": "0x704111edbee29d79a92c4f21e70a5396aedcc44a",
+    "to_address": "0x510d776fea6469531f8be69e669e553c0de69621",
+    "value": "0",
+    "gas": "606780",
+    "gas_price": "60000000000",
+    "input": "0xb6b55f25000000000000000000000000000000000000000000023d9b0abc14f188deac14",
+    "receipt_cumulative_gas_used": "1146231",
+    "receipt_gas_used": "219956",
+    "receipt_contract_address": null,
+    "receipt_root": null,
+    "receipt_status": "1",
+    "block_timestamp": "2021-10-12T13:12:15.000Z",
+    "block_number": "20138207",
+    "block_hash": "0xeb94e4219a5d0082a3e0829f9ccb9880eeec1a40cb841a03dacbc4e0cb798f13"
+  }],
+  "global_token_meta": [{
+    "address": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
+    "name": "IRON Stablecoin",
+    "symbol": "IRON",
+    "logo": null,
+    "logo_hash": null,
+    "thumbnail": null,
+    "decimals": "18",
+    "block_number": "14589802",
+    "validated": 1
+  }]
+}

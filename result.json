@@ -1,0 +1,130 @@
+{
+  "history": [
+    {
+      "cost_basis": 221.27895873490277,
+      "transaction_id": "0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678",
+      "datetime": "2021-10-12T13:11:45.000Z",
+      "token_id": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+      "token_name": "PolyDoge",
+      "hierarchy_level": 3
+    },
+    {
+      "cost_basis": 443.671874907821,
+      "transaction_id": "0x03084b9a82b34d7b815931fd200ff950b65189e9748efde42808cd1939ef8678",
+      "datetime": "2021-10-12T13:11:45.000Z",
+      "token_id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "token_name": "Wrapped Matic",
+      "hierarchy_level": 3
+    },
+    {
+      "cost_basis": 298.4124185916992,
+      "transaction_id": "0x125e1b61c155a2b0bf2f25a3ca9eb6e0cb14aa6b88ca60ca6ccf98b60e2fdbcf",
+      "datetime": "2021-09-25T15:15:20.000Z",
+      "token_id": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+      "token_name": "PolyDoge",
+      "hierarchy_level": 3
+    },
+    {
+      "cost_basis": 115.157164348,
+      "transaction_id": "0x97e26e8c022aaa724c080c2753aa67b470b43d8773e4df4b5748a456349b9e8d",
+      "datetime": "2021-09-20T07:20:58.000Z",
+      "token_id": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+      "token_name": "PolyDoge",
+      "hierarchy_level": 5
+    },
+    {
+      "cost_basis": 229.71202892948907,
+      "transaction_id": "0x97e26e8c022aaa724c080c2753aa67b470b43d8773e4df4b5748a456349b9e8d",
+      "datetime": "2021-09-20T07:20:58.000Z",
+      "token_id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "token_name": "Wrapped Matic",
+      "hierarchy_level": 5
+    },
+    {
+      "cost_basis": 0,
+      "transaction_id": "0x4c76f00611fb809e4436e533523ec8b42d3a56b1d1077dbbbf30f29145c8f6c0",
+      "datetime": "2021-09-20T07:08:52.000Z",
+      "token_id": "0x510d776fea6469531f8be69e669e553c0de69621",
+      "token_name": "polydogeMaticvault",
+      "hierarchy_level": 5
+    },
+    {
+      "cost_basis": 229.71202892948907,
+      "transaction_id": "0x4c76f00611fb809e4436e533523ec8b42d3a56b1d1077dbbbf30f29145c8f6c0",
+      "datetime": "2021-09-20T07:08:52.000Z",
+      "token_id": "0x510d776fea6469531f8be69e669e553c0de69621",
+      "token_name": "polydogeMaticvault",
+      "hierarchy_level": 5
+    },
+    {
+      "cost_basis": 283.56493813928904,
+      "transaction_id": "0x8469468d926315e0c6924a157b4628fd65afde82c612025f212700abe3693898",
+      "datetime": "2021-09-20T07:08:26.000Z",
+      "token_id": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+      "token_name": "PolyDoge",
+      "hierarchy_level": 5
+    },
+    {
+      "cost_basis": 337.5979675880282,
+      "transaction_id": "0x8469468d926315e0c6924a157b4628fd65afde82c612025f212700abe3693898",
+      "datetime": "2021-09-20T07:08:26.000Z",
+      "token_id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "token_name": "Wrapped Matic",
+      "hierarchy_level": 5
+    },
+    {
+      "cost_basis": 337.5979675880282,
+      "transaction_id": "0x69c9489469a45d91d4475d81bf6665a1359108b44e43f482c3c29f4a2a6d8c21",
+      "datetime": "2021-09-20T07:21:22.000Z",
+      "token_id": "0x5d9d66ac0db91ec463fb3e9e5b1513dbff02fd0f",
+      "token_name": "ApeSwapFinance LPs",
+      "hierarchy_level": 4
+    },
+    {
+      "cost_basis": 337.5979675880282,
+      "transaction_id": "0x69c9489469a45d91d4475d81bf6665a1359108b44e43f482c3c29f4a2a6d8c21",
+      "datetime": "2021-09-20T07:21:22.000Z",
+      "token_id": "0x5d9d66ac0db91ec463fb3e9e5b1513dbff02fd0f",
+      "token_name": "ApeSwapFinance LPs",
+      "hierarchy_level": 4
+    },
+    {
+      "cost_basis": 337.5979675880282,
+      "transaction_id": "0xe4be76c1fe32d59d5024fa89f9b6832a84c7ada64984fb4a15772d870e5e013e",
+      "datetime": "2021-09-25T15:12:38.000Z",
+      "token_id": "0x510d776fea6469531f8be69e669e553c0de69621",
+      "token_name": "polydogeMaticvault",
+      "hierarchy_level": 3
+    },
+    {
+      "cost_basis": 636.0103861797274,
+      "transaction_id": "0xe4be76c1fe32d59d5024fa89f9b6832a84c7ada64984fb4a15772d870e5e013e",
+      "datetime": "2021-09-25T15:12:38.000Z",
+      "token_id": "0x510d776fea6469531f8be69e669e553c0de69621",
+      "token_name": "polydogeMaticvault",
+      "hierarchy_level": 3
+    },
+    {
+      "cost_basis": 636.0103861797274,
+      "transaction_id": "0x653a2c33353cdf53b0cc6ed15be260740c04236cac96242dcdc5b48dcca970c0",
+      "datetime": "2021-10-12T13:12:15.000Z",
+      "token_id": "0x5d9d66ac0db91ec463fb3e9e5b1513dbff02fd0f",
+      "token_name": "ApeSwapFinance LPs",
+      "hierarchy_level": 2
+    },
+    {
+      "cost_basis": 636.0103861797274,
+      "transaction_id": "0x653a2c33353cdf53b0cc6ed15be260740c04236cac96242dcdc5b48dcca970c0",
+      "datetime": "2021-10-12T13:12:15.000Z",
+      "token_id": "0x5d9d66ac0db91ec463fb3e9e5b1513dbff02fd0f",
+      "token_name": "ApeSwapFinance LPs",
+      "hierarchy_level": 2
+    },
+    {
+      "cost_basis": 636.0103861797274,
+      "token_id": "0x510d776fea6469531f8be69e669e553c0de69621",
+      "token_name": "polydogeMaticvault",
+      "hierarchy_level": 1
+    }
+  ]
+}
